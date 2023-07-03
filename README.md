@@ -14,16 +14,13 @@ JAVA, SPRING BOOT, POSTMAN, REST API, JSOUP technologies are used in the applica
 # Application Features:
 - [x] User Login
 - [x] Category Save Service
-- [x] category List Service
-- [x] category Update Service 
+- [x] Category List Service
+- [x] Category Update Service 
 
 ## Project Note:
 ```
 In this application, session cookie are used.
 ```
-
-
-
 
 # Project Display Image
 
@@ -32,13 +29,13 @@ In this application, session cookie are used.
     <img src="CATEGORY FOTO/LOGIN SUCCESS.png" style="max-width:100%;"> 
 </a>
 <a >
-    <img src="CATEGORY PRODUCT FOTO/SAVE.png" style="max-width:100%;"> 
+    <img src="CATEGORY FOTO/SAVE.png" style="max-width:100%;"> 
 </a>
     <a>
     <img src="CATEGORY FOTO/LIST.png" style="max-width:100%;"> 
 </a>
        <a>
-    <img src="CATEGORY  FOTO/LIST PAGE.png" style="max-width:100%;"> 
+    <img src="CATEGORY FOTO/LIST PAGE.png" style="max-width:100%;"> 
 </a>
     
 </p>
